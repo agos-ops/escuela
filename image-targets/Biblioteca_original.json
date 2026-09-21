@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 132,
+    "width": 797,
+    "height": 1063,
+    "isRotated": false,
+    "originalWidth": 1063,
+    "originalHeight": 1063
+  },
+  "imagePath": "image-targets/Biblioteca_original_luminance.png",
+  "metadata": null,
+  "name": "Biblioteca_original",
+  "resources": {
+    "originalImage": "Biblioteca_original_original.png",
+    "croppedImage": "Biblioteca_original_cropped.png",
+    "thumbnailImage": "Biblioteca_original_thumbnail.png",
+    "luminanceImage": "Biblioteca_original_luminance.png"
+  },
+  "created": 1789949150812,
+  "updated": 1789949150812
+}

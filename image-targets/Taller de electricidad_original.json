@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 132,
+    "width": 797,
+    "height": 1063,
+    "isRotated": false,
+    "originalWidth": 1063,
+    "originalHeight": 1063
+  },
+  "imagePath": "image-targets/Taller de electricidad_original_luminance.png",
+  "metadata": null,
+  "name": "Taller de electricidad_original",
+  "resources": {
+    "originalImage": "Taller de electricidad_original_original.png",
+    "croppedImage": "Taller de electricidad_original_cropped.png",
+    "thumbnailImage": "Taller de electricidad_original_thumbnail.png",
+    "luminanceImage": "Taller de electricidad_original_luminance.png"
+  },
+  "created": 1789949876593,
+  "updated": 1789949876593
+}
